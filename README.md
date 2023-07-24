@@ -22,4 +22,4 @@ RESTAssured API uses Maven Project Dependencies defined on the POM file.
 2. Java
 3. IntelliJ IDE
 4. Selenium
-5. 
+5. Cucumber
